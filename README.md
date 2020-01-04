@@ -1,6 +1,3 @@
 # LibVarSpeedServo
-Libraries to use for servomotors
+Libraries to use for servomotors, given w/ the source code of the 4 axes arms, but clearly not optimised.
 
-First Arduino Libraries to order servomotors not included in arduino packages.
-
-"test for auth in linux"
